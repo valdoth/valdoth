@@ -47,10 +47,10 @@
             <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
             <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
             </div><div align="center">
-            <img src="https://img.shields.io/badge/django-hotpink.svg?style=for-the-badge&logo=django&logoColor=white" alt="sass">
+            <img src="https://img.shields.io/badge/django-black.svg?style=for-the-badge&logo=django&logoColor=white" alt="sass">
             <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
             <img src="https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode">
-            <img src="https://img.shields.io/badge//-ReactJs-61DAFB?logo=react&logoColor=important" alt="sublime-text">
+            <img src="https://img.shields.io/badge//-ReactJs-blue?logo=react&logoColor=gray" alt="sublime-text">
             <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git">
             </div>
         </td>
