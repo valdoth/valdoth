@@ -23,6 +23,7 @@
                 <li>⚽ Football</li>
             </ul>
         </td>
+<td><img src="assets/foot.png" alt="coding" width=360 height=270></td>
     </tr>
 </table>
 <hr>
