@@ -1,5 +1,5 @@
 <h1 align="center"><em>Hello!</em> <img src="assets/wave.gif" alt="hand wave" width="36" height="36"></h1>
-<h3 align="center"><b><em>Patrick</em></b> here 🇲🇬️😃️. <code>Mathematics and computer science student.</code></h3>
+<h3 align="center"><b><em>VALDO</em></b> here 🇲🇬️😃️. <code>Mathematics and computer science student.</code></h3>
 <h3 align="center"><code>I'm self-taught programmer, doing my best to improve my skills.</code></h3>
 <hr>
 <table align="center" style="background-color: black;">
