@@ -1,5 +1,5 @@
 <h1 align="center"><em>Hello!</em> <img src="assets/wave.gif" alt="hand wave" width="36" height="36"></h1>
-<h3 align="center"><b><em>VALDO</em></b> here 🇲🇬️😃️. <code>Mathematics and computer science student.</code></h3>
+<h3 align="center"><b><em>Valdo</em></b> 🇲🇬️😃️. <code>Mathematics and computer science student.</code></h3>
 <h3 align="center"><code>I'm self-taught programmer, doing my best to improve my skills.</code></h3>
 <hr>
 <table align="center" style="background-color: black;">
@@ -47,10 +47,10 @@
             <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
             <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
             </div><div align="center">
-            <img src="https://img.shields.io/badge/django-black.svg?style=for-the-badge&logo=django&logoColor=white" alt="sass">
+            <img src="https://img.shields.io/badge/django-black.svg?style=for-the-badge&logo=django&logoColor=white" alt="django">
             <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
             <img src="https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode">
-            <img src="https://img.shields.io/badge//-ReactJs-blue?logo=react&logoColor=gray" alt="sublime-text">
+            <img src="https://img.shields.io/badge//-ReactJs-blue?logo=react&logoColor=important" alt="reactjs">
             <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git">
             </div>
         </td>
