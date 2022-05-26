@@ -5,9 +5,9 @@
 <hr>
 <hr>
     <div display="flex">
-        <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdoth&theme=tokyonight&layout=compact&langs_count=5" alt="top languages"></div>
-            <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valdoth&show_icons=true&locale=en" alt="valdoth" /></div>
-        <div align="left"> <img src="https://komarev.com/ghpvc/?username=valdoth&label=Profile%20views&color=0e75b6&style=flat" alt="valdoth" /> </div>
+        <div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdoth&theme=tokyonight&layout=compact&langs_count=5" alt="top languages"></div>
+            <div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valdoth&show_icons=true&locale=en" alt="valdoth" /></div>
+        <div align="rigght"> <img src="https://komarev.com/ghpvc/?username=valdoth&label=Profile%20views&color=0e75b6&style=flat" alt="valdoth" /> </div>
     </div>
 <hr>
 
