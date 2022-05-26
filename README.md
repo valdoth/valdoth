@@ -4,10 +4,14 @@
 <div align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valdoth" alt="valdoth" /></a><div>
 <hr>
 <hr>
-<table align="center">
-    <tr>
-        <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdoth&theme=tokyonight&layout=compact&langs_count=5" alt="top languages"></td>
-    </tr>
-</table>
+    <div>
+        <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdoth&theme=tokyonight&layout=compact&langs_count=5" alt="top languages"></p>
+    </div>
 <hr>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valdoth&show_icons=true&locale=en&layout=compact" alt="valdoth" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valdoth&show_icons=true&locale=en" alt="valdoth" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=valdoth&label=Profile%20views&color=0e75b6&style=flat" alt="valdoth" /> </p>
+    
 <h2 align="center"><code>Thanks for your visit. Have a good day!</code> 😁️</h1>
