@@ -1,7 +1,7 @@
 <h1 align="center"><em>Hello!</em> <img src="assets/wave.gif" alt="hand wave" width="36" height="36"></h1>
 <h3 align="center"><b><em>Valdo</em></b> 🇲🇬️😃️. <code>Mathematics and computer science student.</code></h3>
 <h3 align="center"><code>I'm self-taught programmer, doing my best to improve my skills.</code></h3>
-<div><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valdoth" alt="valdoth" /></a><div>
+<div align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valdoth" alt="valdoth" /></a><div>
 <hr>
 <hr>
 <table align="center">
