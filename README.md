@@ -5,8 +5,10 @@
 <hr>
 <hr>
     <table>
+        <td>
         <tr align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdoth&theme=tokyonight&layout=compact&langs_count=5" alt="top languages"></tr>
-        <tr>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valdoth&show_icons=true&locale=en" alt="valdoth" /></tr>
+        </td>
+            <tr>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valdoth&show_icons=true&locale=en" alt="valdoth" /></tr>
         <tr align="left"> <img src="https://komarev.com/ghpvc/?username=valdoth&label=Profile%20views&color=0e75b6&style=flat" alt="valdoth" /> </tr>
     </table>
 <hr>
