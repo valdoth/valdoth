@@ -4,13 +4,11 @@
 <div align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valdoth" alt="valdoth" /></a><div>
 <hr>
 <hr>
-    <table>
-        <td>
-        <tr align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdoth&theme=tokyonight&layout=compact&langs_count=5" alt="top languages"></tr>
-        </td>
-            <tr>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valdoth&show_icons=true&locale=en" alt="valdoth" /></tr>
-        <tr align="left"> <img src="https://komarev.com/ghpvc/?username=valdoth&label=Profile%20views&color=0e75b6&style=flat" alt="valdoth" /> </tr>
-    </table>
+    <div display="flex">
+        <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdoth&theme=tokyonight&layout=compact&langs_count=5" alt="top languages"></div>
+            <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valdoth&show_icons=true&locale=en" alt="valdoth" /></div>
+        <div align="left"> <img src="https://komarev.com/ghpvc/?username=valdoth&label=Profile%20views&color=0e75b6&style=flat" alt="valdoth" /> </div>
+    </div>
 <hr>
 
 <h2 align="center"><code>Thanks for your visit. Have a good day!</code> 😁️</h1>
