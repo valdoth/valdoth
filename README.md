@@ -2,7 +2,7 @@
 <h3 align="center"><b><em>I'm Valdo</em></b> 🇲🇬️😃️. <code>Mathematics and computer science student.</code></h3>
 <hr>
     <div>
-        <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdoth&theme=tokyonight&layout=compact&langs_count=15" alt="top languages"></div>
+        <div align="center"><img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valdoth&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)" alt="top languages"></div>
             <div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valdoth&show_icons=true&locale=en" alt="valdoth" /></div>
         <div align="center"> <img src="https://komarev.com/ghpvc/?username=valdoth&label=Profile%20views&color=0e75b6&style=flat" alt="valdoth" /> </div>
     </div>
