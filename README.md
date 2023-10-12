@@ -2,9 +2,13 @@
 <h3 align="center"><b><em>I'm Valdo</em></b> 🇲🇬️😃️. <code>Mathematics and computer science student.</code></h3>
 <hr>
     <div>
-        <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdoth&theme=tokyonight&layout=compact&langs_count=15" alt="top languages"></div>
-            <div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valdoth&show_icons=true&locale=en" alt="valdoth" /></div>
-        <div align="center"> <img src="https://komarev.com/ghpvc/?username=valdoth&label=Profile%20views&color=0e75b6&style=flat" alt="valdoth" /> </div>
+       <h3 align="center">📊 Stats</h3>
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=valdoth&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph" /> <br>
+          <img src="https://streak-stats.demolab.com?user=valdoth&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph" /> <br>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=valdoth&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  /> <br>
+          <h4>Profile Views</h4><img src="https://profile-counter.glitch.me/valdoth/count.svg?"/>
+</div>
     </div>
 <hr>
 
